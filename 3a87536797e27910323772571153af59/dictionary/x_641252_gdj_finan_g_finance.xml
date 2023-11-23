@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0f589fa397267910323772571153af30" extends="task" label="G Finance" max_length="40" name="x_641252_gdj_finan_g_finance" type="collection"/>
+</database>
