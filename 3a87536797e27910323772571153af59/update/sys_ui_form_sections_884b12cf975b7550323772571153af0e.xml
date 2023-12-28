@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="884b12cf975b7550323772571153af0e" sys_domain="global" table="x_641252_gdj_finan_g_finance" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 16:40:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>484b12cf975b7550323772571153af11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_641252_gdj_finan_g_finance" name="x_641252_gdj_finan_g_finance" sys_domain="global" view="Default view">884b12cf975b7550323772571153af0e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_641252_gdj_finan_g_finance" sys_domain="global" view="Default view">7ecacc5697ba3110323772571153af18</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-28 16:40:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_641252_gdj_finan_g_finance</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-28 16:40:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>884b12cf975b7550323772571153af0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_641252_gdj_finan_g_finance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GDJ Finance" source="x_641252_gdj_finan">3a87536797e27910323772571153af59</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GDJ Finance">3a87536797e27910323772571153af59</sys_scope>
+            <sys_update_name>sys_ui_form_sections_884b12cf975b7550323772571153af0e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-28 16:40:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
